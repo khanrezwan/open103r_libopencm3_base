@@ -12,11 +12,16 @@ Folder structure
 
 Step 1. clone under libopencm3 under workspace director
   git clone https://github.com/libopencm3/libopencm3.git
+
 Step 2. 
   cd libopencm3
+
 Step 3.
   make
+
 Step 4. cd ..
+
 Step 5. clone this repo
   git clone https://github.com/khanrezwan/open103r_libopencm3_base.git
+
 Step 6. make
