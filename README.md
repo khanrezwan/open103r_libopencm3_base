@@ -5,9 +5,13 @@ Hacked together linker scripts and makefiles from libopencm3-examples ( https://
 Folder structure
 
 -workspace
+ 
   |
+ 
   --libopencm3
+ 
   |
+ 
   --open103r_libopencm3_base
 
 Step 1. clone under libopencm3 under workspace director
