@@ -8,11 +8,12 @@ Folder structure
  
   |
  
-  --libopencm3
+   \--libopencm3
  
   |
  
-  --open103r_libopencm3_base
+   \--open103r_libopencm3_base
+
 
 Step 1. clone under libopencm3 under workspace director
   git clone https://github.com/libopencm3/libopencm3.git
