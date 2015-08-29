@@ -15,6 +15,7 @@ Hacked together linker scripts and makefiles from libopencm3-examples ( https://
  
    \--open103r_libopencm3_base
 
+# Steps 
 
 Step 1. clone under libopencm3 under workspace director
   
