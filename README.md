@@ -1,8 +1,9 @@
 # open103r_libopencm3_base
-waveshare open103r (stm32f1) base file for linopencm3.
+waveshare open103r (stm32f1) base file for libopencm3.
 
 Hacked together linker scripts and makefiles from libopencm3-examples ( https://github.com/libopencm3/libopencm3-examples.git ) )
-Folder structure
+
+# Folder structure
 
 -workspace
  
